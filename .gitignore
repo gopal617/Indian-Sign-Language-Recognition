@@ -1,0 +1,25 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual env
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+dataset/
+*.h5
+processed_data.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Results & models (if you prefer not to store them on GitHub)
+models/
+results/
